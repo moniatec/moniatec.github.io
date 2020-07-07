@@ -185,6 +185,7 @@ html {
 
 body {
   background: #1b1f22;
+  /* background: #b9d5eb; */
 }
 
 body.is-preload *,
@@ -275,6 +276,7 @@ h4,
 h5,
 h6 {
   color: #ffffff;
+
   font-weight: 600;
   line-height: 1.5;
   margin: 0 0 1rem 0;
@@ -1274,7 +1276,7 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/bg.jpg");
+  background-image: url("../../images/pic04.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1548,7 +1550,7 @@ body.is-preload #header .content .inner {
   max-height: 0;
   padding-top: 0;
   padding-bottom: 0;
-  opacity: 0;
+  /* opacity: 0; */
 }
 
 @media screen and (max-width: 980px) {
@@ -1672,6 +1674,7 @@ body.is-preload #header .content .inner {
   width: 40rem;
   max-width: 100%;
   background-color: rgba(27, 31, 34, 0.85);
+  /* background-color: rgb(223, 221, 221); */
   border-radius: 4px;
   opacity: 0;
 }
