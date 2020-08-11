@@ -1254,8 +1254,8 @@ button {
   transition-delay: 0.75s;
   background-image: linear-gradient(
       to top,
-      rgba(19, 21, 25, 0.5),
-      rgba(19, 21, 25, 0.5)
+      rgb(147 149 165 / 50%),
+      rgb(60 67 101 / 50%)
     ),
     url("../../images/overlay.png");
   background-size: auto, 256px 256px;
