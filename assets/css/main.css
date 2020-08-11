@@ -762,7 +762,7 @@ input[type="radio"] + label:before {
 .image:before {
   pointer-events: none;
   background-image: url("../../images/overlay.png");
-  background-color: rgba(19, 21, 25, 0.5);
+  /* background-color: rgba(19, 21, 25, 0.5); */
   border-radius: 4px;
   content: "";
   display: block;
